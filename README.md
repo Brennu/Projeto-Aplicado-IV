@@ -1,4 +1,4 @@
-# INCIDÊNCIA DE DENGUE NO ESTADO DE SÃO PAULO
+# Incidência De Dengue No Estado De São Paulo
 
 
 ## Sumário
